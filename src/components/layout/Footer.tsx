@@ -76,7 +76,7 @@ export function Footer() {
         </div>
 
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between text-[11px] text-zinc-600 gap-4">
-            <p>© {new Date().getFullYear()} Plan Sight Estimating. All rights reserved.</p>
+            <p>© 2023 Plan Sight Estimating. All rights reserved.</p>
         </div>
       </div>
     </footer>

@@ -10,7 +10,8 @@ export const BRAND = {
   name: "Plan Sight Estimating",
   shortName: "Plan Sight",
   domain: "plansightestimating.com",
-  contactEmail: "contact@plansightestimating.com",
+  siteUrl: "https://plansightestimating.com",
+  contactEmail: "plansightestimating@gmail.com",
   logos: {
     header: headerLogo,
     headerDark: headerLogoDark,

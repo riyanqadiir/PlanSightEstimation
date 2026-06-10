@@ -19,7 +19,7 @@ export function ContactSidebar() {
         </h2>
         <p className={`text-sm ${themeClasses.mutedText} leading-relaxed`}>
           Send us your project details and we will get back to you at{" "}
-          <strong>contact@plansightestimating.com</strong>.
+          <strong>{BRAND.contactEmail}</strong>.
         </p>
       </div>
 
